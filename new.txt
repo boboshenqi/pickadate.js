@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-this is old text ;ldk
-=======
-this is old text too
->>>>>>> 98af714064282964f9c0332bb97fde7b06eb6f07
+second line
