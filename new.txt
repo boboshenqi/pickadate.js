@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-second line by boboshenqi
-=======
-second line by yanboh
->>>>>>> 18e3fe39d988b6ebdb2a1f61465e320157e4128e
+second line by boboshenqi and yanboh
